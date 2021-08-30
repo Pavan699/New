@@ -7,3 +7,4 @@ do
   cp -r $file $extname;
   mv $extname $filename;
 done
+Adding line in local server(GUI) for conflict 
